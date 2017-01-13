@@ -1,5 +1,6 @@
 Tempat di mana kamu bisa belajar coding secara bebas dan gratis.
 
+Dalam bahasa Inggris.
 1. Codecademy (https://www.codecademy.com/)
 2. Free Code Camp (http://freecodecamp.com/)
 3. Codewars (https://www.codewars.com/)
@@ -12,6 +13,10 @@ Tempat di mana kamu bisa belajar coding secara bebas dan gratis.
 10. MIT OpenCourseware (http://ocw.mit.edu/index.htm)
 11. Coursera (https://www.coursera.org/)
 
+Dalam bahasa Indonesia
+1. Codesaya (https://codesaya.com/)
+2. Codepolitan (https://www.codepolitan.com/)
+3. Duniailkom - Dunia Ilmu Komputer (http://www.duniailkom.com/)
 
 Sumber:
 * http://www.forbes.com/sites/laurencebradford/2016/12/08/11-websites-to-learn-to-code-for-free-in-2017/#600694287892
